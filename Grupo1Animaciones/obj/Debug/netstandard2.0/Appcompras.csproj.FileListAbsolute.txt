@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\Vistas\Agregarcompra.xaml.g.cs
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\Vistas\Compras.xaml.g.cs
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.AssemblyInfo.cs
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HP\source\repos\Appcompras\Appcompras\bin\Debug\netstandard2.0\Grupo1Animaciones.deps.json
+C:\Users\HP\source\repos\Appcompras\Appcompras\bin\Debug\netstandard2.0\Grupo1Animaciones.dll
+C:\Users\HP\source\repos\Appcompras\Appcompras\bin\Debug\netstandard2.0\ref\Grupo1Animaciones.dll
+C:\Users\HP\source\repos\Appcompras\Appcompras\bin\Debug\netstandard2.0\Grupo1Animaciones.pdb
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\Grupo1Animaciones.dll
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\ref\Grupo1Animaciones.dll
+C:\Users\HP\source\repos\Appcompras\Appcompras\obj\Debug\netstandard2.0\Grupo1Animaciones.pdb
